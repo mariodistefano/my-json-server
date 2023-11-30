@@ -1,0 +1,20 @@
+
+{
+  "pizzas" : [
+    {
+      "id":1,
+      "name":"margherita",
+      "prezzo":"10:00"
+    },
+    {
+      "id":2,
+      "name":"norma",
+      "prezzo":"10:00"
+    }
+    
+  ],
+  "login":{
+    "user": "pippo",
+    "password":1421
+  }
+}
